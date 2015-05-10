@@ -196,10 +196,6 @@ function facebook_lbpp_settings_page() {
 <td><input type="number" name="facebook_lbpp_height" min="130" value="<?php echo esc_attr( get_option('facebook_lbpp_height') ); ?>" /></td>
 </tr>
 <tr valign="top">
-<th scope="row">Plugin Height</th>
-<td><input type="number" name="facebook_lbpp_height" min="130" value="<?php echo esc_attr( get_option('facebook_lbpp_height') ); ?>" /></td>
-</tr>
-<tr valign="top">
 <th scope="row">Shortcode for use in widgets or content areas:</th>
 <td>[facebox]</td>
 </tr>

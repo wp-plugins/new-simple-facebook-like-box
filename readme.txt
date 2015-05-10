@@ -24,6 +24,9 @@ Upload the Facebook LBPP plugin to your blog, Activate it, go to Facebook LBPP S
 
 == Changelog ==
 
+= 1.0.1 =
+*Removed a field that was appearing twice*
+
 = 1.0.0 =
 *Release Date - 3rd June, 2009*
 

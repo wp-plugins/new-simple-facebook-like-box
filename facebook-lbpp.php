@@ -5,7 +5,7 @@
 
 /**
  * Plugin Name: Facebook Like Box Page Plugin
- * Version: 1.0.0
+ * Version: 1.0.1
  * Plugin URI: http://developers.doseo.co.il
  * Description: Plugin for the new Facebook Like Box
  * Author: Team Do Seo

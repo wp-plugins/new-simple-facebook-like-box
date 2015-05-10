@@ -2,8 +2,8 @@
 Contributors: vilkatis, doseo
 Tags: facebook, likebox, page, plugin, like, pageplugin, fb
 Requires at least: 3.2
-Tested up to: 4.2.0
-Stable tag: 1.0.0
+Tested up to: 4.2.2
+Stable tag: 1.0.1
 License: GPLv2 or later
 
 Facebook LBPP adds the new facebook likebox to your website through widget and shortcode
